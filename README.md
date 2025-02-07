@@ -36,7 +36,7 @@ My Habit Tracker is a Flutter-based mobile application designed to help you buil
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/my_habit_tracker.git
+   git clone https://github.com/salah-191135/my_habit_tracker.git
    cd my_habit_tracker
    ```
 
